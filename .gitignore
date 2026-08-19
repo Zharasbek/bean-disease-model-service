@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+artifacts/
+model/
+reports/
+
+.vscode/
+.pytest_cache/
+
+train_error.txt
