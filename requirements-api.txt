@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+safetensors
+transformers==5.15.1
